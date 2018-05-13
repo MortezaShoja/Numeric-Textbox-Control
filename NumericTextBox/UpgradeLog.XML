@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NTEXT">
+</Property><Property Name="Solution File" Value="D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\NTEXT.sln">
+</Property><Property Name="User Options File" Value="D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\NTEXT.suo">
+</Property><Property Name="Date" Value="Thursday, May 27, 2010">
+</Property><Property Name="Time" Value="22:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NTEXT.sln" Description="File successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NTEXT.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NTEXT.suo" Description="File successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NTEXT.suo">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NTEXT.vbproj" Description="Project file successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NTEXT.vbproj">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NTEXT.vbproj.user" Description="Project user file successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NTEXT.vbproj.user">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NText.vb" Description="File successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NText.vb">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NText.resx" Description="File successfully backed up as D:\Programing\VB.Net\My Project\Windows Application Projects\NTEXT\Backup\NText.resx">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NTEXT.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NTEXT" Source="NTEXT.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NTEXT.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NTEXT.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NTEXT" Source="NTEXT.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
